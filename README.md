@@ -3,7 +3,7 @@
 ---
 ## ***Text Preprocessing***
 ***1. [Lowercasing](https://github.com/Rafiqul-Islam12/Natural-Language-Processing-NLP/blob/main/1.%20Text%20Preprocessing/1.%20Lowercasing.ipynb)***   
-***2. Remove HTML Tags***  
+***2. [Remove HTML Tags](https://github.com/Rafiqul-Islam12/Natural-Language-Processing-NLP/blob/main/1.%20Text%20Preprocessing/2.%20Remove%20HTML%20Tags.ipynb)***  
 ***3. Remove URLs***  
 ***4. Remove Punctuation***  
 ***5. Chat Word Treatment***   
